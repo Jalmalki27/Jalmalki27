@@ -1,0 +1,23 @@
+{
+  "name": "jalmalki27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalmalki27/Jalmalki27.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jalmalki27/Jalmalki27/issues"
+  },
+  "homepage": "https://github.com/Jalmalki27/Jalmalki27#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2"
+  }
+}
